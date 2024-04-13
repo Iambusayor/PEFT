@@ -1,0 +1,6 @@
+[submodule "qlora"]
+	path = qlora
+	url = https://github.com/artidoro/qlora.git
+[submodule "LoRA"]
+	path = LoRA
+	url = https://github.com/microsoft/LoRA.git
